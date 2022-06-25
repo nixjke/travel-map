@@ -1,6 +1,5 @@
-import React from 'react'
-import TravelCard from '../components/Card'
 import Map from '../components/Map'
+import TravelCard from '../components/TravelCard'
 
 export default function TravelMap() {
   return (

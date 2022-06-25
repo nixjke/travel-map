@@ -1,5 +1,4 @@
-import React from 'react'
-import { Card, Select, Button } from 'antd'
+import { Button, Card, Select } from 'antd'
 
 export default function TravelCard() {
   const { Option } = Select

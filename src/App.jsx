@@ -1,4 +1,3 @@
-import React from 'react'
 import './App.css'
 import TravelMap from './pages/TravelMap'
 
